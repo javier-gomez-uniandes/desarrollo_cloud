@@ -1,0 +1,18 @@
+.container {
+    max-width: 50%;
+    padding-top: 30px;
+}
+.content {
+    margin: auto;
+    border: 2px solid yellow;
+    zoom: 0.7;
+}
+.spacing-table td {
+    border-width: 3px 0;
+    width: 50%;
+    border-color: darkred;
+    border-style: solid;
+    background-color: red;
+    color: white;
+    padding: 5px 15px;
+  }
